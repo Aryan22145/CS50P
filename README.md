@@ -1,3 +1,1 @@
-# CS50P
-
-These are the solutions for every problem in CS50P 
+# Introduction to programming with Python - CS50P
